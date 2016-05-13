@@ -3,7 +3,7 @@ mod 'puppetlabs/stdlib'
 
 mod 'thias/sysctl'
 
-mod 'puppet-os-hardening',
+mod 'hardening-os_hardening',
   :git => 'https://github.com/dev-sec/puppet-os-hardening.git',
   :ref => '1.1.2'
 
